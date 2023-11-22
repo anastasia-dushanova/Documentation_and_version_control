@@ -1,0 +1,181 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Linn}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b71fc6b558af52ecb3cd33c1a724f355}{%
+           family={C.\bibnamedelimi Linn},
+           familyi={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={S.\bibnamedelimi Debray},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {ACM Portal – The Guide to computing literature}%
+      }
+      \strng{namehash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \strng{fullhash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \strng{bibnamehash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \strng{authorbibnamehash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \strng{authornamehash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \strng{authorfullhash}{b71fc6b558af52ecb3cd33c1a724f355}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{media}{eresource}
+      \field{note}{(дата обращения: 29.04.2010)}
+      \field{title}{Obfuscation of Executable Code to Improve Resistance to Static Disassembly}
+      \verb{urlraw}
+      \verb http://portal.acm.org/ citation.cfm?id=948149
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/%20citation.cfm?id=948149
+      \endverb
+    \endentry
+    \entry{Assembly}{online}{}
+      \list{language}{1}{%
+        {russian}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{media}{eresource}
+      \field{note}{(дата обращения: 29.04.2010)}
+      \field{title}{IA-32 Assembly Language Reference Manual}
+      \verb{urlraw}
+      \verb http://docs.sun.com/app/docs/doc/806-3773
+      \endverb
+      \verb{url}
+      \verb http://docs.sun.com/app/docs/doc/806-3773
+      \endverb
+    \endentry
+    \entry{Rosenblum}{book}{}
+      \name{author}{3}{}{%
+        {{hash=639f71540e752c3b7eaa5206f58fc8e3}{%
+           family={N.\bibnamedelimi Rosenblum},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={X.\bibnamedelimi Zhu},
+           giveni={X\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=c6d7b05d20beb050c7a8c0f32a9d3270}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f4eabaaa2a03dabad14d3d3cbfcdb736}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {NIPS 2007 Workshop on Machine Learning in Adversarial Environments for Computer Security}%
+      }
+      \strng{namehash}{847da35f43fc6ee0df578cef42eca987}
+      \strng{fullhash}{847da35f43fc6ee0df578cef42eca987}
+      \strng{bibnamehash}{847da35f43fc6ee0df578cef42eca987}
+      \strng{authorbibnamehash}{847da35f43fc6ee0df578cef42eca987}
+      \strng{authornamehash}{847da35f43fc6ee0df578cef42eca987}
+      \strng{authorfullhash}{847da35f43fc6ee0df578cef42eca987}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{media}{eresource}
+      \field{note}{(дата обращения: 29.04.2010)}
+      \field{title}{Machine Learning-Assisted Binary Code Analysis}
+      \verb{urlraw}
+      \verb http://mlsnips07.first.fraunhofer.de/abstracts/16-Rosenblum.pdf
+      \endverb
+      \verb{url}
+      \verb http://mlsnips07.first.fraunhofer.de/abstracts/16-Rosenblum.pdf
+      \endverb
+    \endentry
+    \entry{Silic}{book}{}
+      \name{author}{3}{}{%
+        {{hash=bfdbad46268d69d98e5ee8dd382fe3f2}{%
+           family={A.\bibnamedelimi Šilić},
+           familyi={A\bibinitperiod\bibinitdelim Š\bibinitperiod},
+           given={J.\bibnamedelimi Chauchat},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2bee717dfb1ad4c8c42823c5417df4fa}{%
+           family={Bašić},
+           familyi={B\bibinitperiod},
+           given={B.D.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6e729a087842ea325a19a4a615933ebc}{%
+           family={Morin},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {SpringerLink}%
+      }
+      \strng{namehash}{633eb7b01be52db756538c7798f3f035}
+      \strng{fullhash}{633eb7b01be52db756538c7798f3f035}
+      \strng{bibnamehash}{633eb7b01be52db756538c7798f3f035}
+      \strng{authorbibnamehash}{633eb7b01be52db756538c7798f3f035}
+      \strng{authornamehash}{633eb7b01be52db756538c7798f3f035}
+      \strng{authorfullhash}{633eb7b01be52db756538c7798f3f035}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{media}{eresource}
+      \field{note}{(дата обращения: 29.04.2010)}
+      \field{title}{N-grams and Morphological Normalization in Text Classification: a Comparison on a Croatian-English Parallel Corpus.}
+      \verb{urlraw}
+      \verb http://www.springerlink.com/content/t45u6740713896x5/
+      \endverb
+      \verb{url}
+      \verb http://www.springerlink.com/content/t45u6740713896x5/
+      \endverb
+    \endentry
+    \entry{PeID}{online}{}
+      \list{language}{1}{%
+        {russian}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{media}{eresource}
+      \field{note}{(дата обращения: 29.04.2010)}
+      \field{title}{PeID}
+      \verb{urlraw}
+      \verb http://www.peid.info/
+      \endverb
+      \verb{url}
+      \verb http://www.peid.info/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
